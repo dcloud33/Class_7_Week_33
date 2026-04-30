@@ -58,4 +58,7 @@ venv/
 
 scripts/__pycache__
 
-__pycache__
+__pycache__.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
