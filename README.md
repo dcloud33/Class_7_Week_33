@@ -8,7 +8,7 @@ Each Lambda endpoint with 6 names total for HTTP and Rest API each.
 
 ## :dart: Practice(Terraform)
 
-![alt text](image.png)
+![alt text](<Practice-TF/Diagrams/Rest API Gateway - Page 5.jpeg>)
 
 - completed Class lab in Terraform
 - added second lambda endpoint into API gateway
