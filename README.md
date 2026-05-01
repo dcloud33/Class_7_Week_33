@@ -8,8 +8,6 @@ Each Lambda endpoint with 6 names total for HTTP and Rest API each.
 
 ## :dart: Practice(Terraform)
 
-![alt text](<Practice-TF/Diagrams/Rest API Gateway - Page 5.jpeg>)
-
 - completed Class lab in Terraform
 - added second lambda endpoint into API gateway
 - created clickable output for both endpoints, so both links end
@@ -20,3 +18,6 @@ Each Lambda endpoint with 6 names total for HTTP and Rest API each.
 
 - completed homework lab a waf in Terraform and uploaded screenshots
 - add screenshots from Terraform state list and console configuration.
+
+## WAF/API Architecture
+![alt text](<Practice-TF/Diagrams/Rest API Gateway - Page 5.jpeg>)
